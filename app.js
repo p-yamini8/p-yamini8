@@ -1,1 +1,2 @@
-console.log("I love git");
+console.log("i love git");
+console.log("thankyou");
